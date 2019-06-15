@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pied Piper on Mediumish</title>
+    <title>Pied Piper on Devs mirror</title>
     <link>https://devmirror.com/tags/pied-piper/</link>
-    <description>Recent content in Pied Piper on Mediumish</description>
+    <description>Recent content in Pied Piper on Devs mirror</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>John Doe - All rights reserved</copyright>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="https://devmirror.com/tags/pied-piper/index.xml" rel="self" type="application/rss+xml" />

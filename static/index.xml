@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Statics on Mediumish</title>
+    <title>Statics on Devs mirror</title>
     <link>https://devmirror.com/static/</link>
-    <description>Recent content in Statics on Mediumish</description>
+    <description>Recent content in Statics on Devs mirror</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>John Doe - All rights reserved</copyright>
     <lastBuildDate>Sun, 07 Oct 2018 11:12:00 +0200</lastBuildDate>
     
 	<atom:link href="https://devmirror.com/static/index.xml" rel="self" type="application/rss+xml" />

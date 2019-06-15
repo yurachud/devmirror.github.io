@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Propaganda on Mediumish</title>
+    <title>Propaganda on Devs mirror</title>
     <link>https://devmirror.com/categories/propaganda/</link>
-    <description>Recent content in Propaganda on Mediumish</description>
+    <description>Recent content in Propaganda on Devs mirror</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>John Doe - All rights reserved</copyright>
     <lastBuildDate>Mon, 03 Oct 2016 16:59:13 -0400</lastBuildDate>
     
 	<atom:link href="https://devmirror.com/categories/propaganda/index.xml" rel="self" type="application/rss+xml" />
