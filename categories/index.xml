@@ -6,28 +6,9 @@
     <description>Recent content in Categories on Devs mirror</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Oct 2016 15:59:13 -0400</lastBuildDate>
     
 	<atom:link href="https://devmirror.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ad</title>
-      <link>https://devmirror.com/categories/ad/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>https://devmirror.com/categories/ad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Propaganda</title>
-      <link>https://devmirror.com/categories/propaganda/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>https://devmirror.com/categories/propaganda/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

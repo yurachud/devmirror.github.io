@@ -6,64 +6,10 @@
     <description>Recent content in Blogs on Devs mirror</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Oct 2018 11:17:14 +0200</lastBuildDate>
     
 	<atom:link href="https://devmirror.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ninth</title>
-      <link>https://devmirror.com/blog/ninth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
-      
-      <guid>https://devmirror.com/blog/ninth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Eighth</title>
-      <link>https://devmirror.com/blog/eighth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:40:11 +0200</pubDate>
-      
-      <guid>https://devmirror.com/blog/eighth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Seventh</title>
-      <link>https://devmirror.com/blog/seventh/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:29 +0200</pubDate>
-      
-      <guid>https://devmirror.com/blog/seventh/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Sixth</title>
-      <link>https://devmirror.com/blog/sixth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:25 +0200</pubDate>
-      
-      <guid>https://devmirror.com/blog/sixth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Fifth</title>
-      <link>https://devmirror.com/blog/fifth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
-      
-      <guid>https://devmirror.com/blog/fifth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Fourth</title>
-      <link>https://devmirror.com/blog/fourth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:16 +0200</pubDate>
-      
-      <guid>https://devmirror.com/blog/fourth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
     
     <item>
       <title>My First Post</title>
@@ -72,36 +18,6 @@
       
       <guid>https://devmirror.com/blog/my-first-post/</guid>
       <description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum.</description>
-    </item>
-    
-    <item>
-      <title>Hooli’s Hot New Hardware</title>
-      <link>https://devmirror.com/blog/third/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>https://devmirror.com/blog/third/</guid>
-      <description>Note: This article originally appeared in CodeRag.
-When Hooli acquired Endframe, no one could wait to see what the tech giant would do with the revolutionary, middle-out compression technology.</description>
-    </item>
-    
-    <item>
-      <title>Gavin Belson</title>
-      <link>https://devmirror.com/blog/first/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>https://devmirror.com/blog/first/</guid>
-      <description>Note: This article originally appeared in CodeRag.
-Gavin Belson’s name has long been synonymous with innovation—but beyond his work at Hooli, do we even know the man behind the rampant success?</description>
-    </item>
-    
-    <item>
-      <title>Belson Back on Top</title>
-      <link>https://devmirror.com/blog/second/</link>
-      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>https://devmirror.com/blog/second/</guid>
-      <description>Note: This post originally appeared in CodeRag
-Gavin Belson’s brilliant leadership is unstoppable. While allegedly taking a personal hiatus from day-to-day operations at Hooli, Belson couldn’t resist brokering a blockbuster deal between Hooli and Maleant Data Systems, deploying Hooli’s innovative new Hooli/Endframe Box.</description>
     </item>
     
   </channel>
