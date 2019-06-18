@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hr on Devs mirror</title>
+    <link>https://devmirror.com/tags/hr/</link>
+    <description>Recent content in Hr on Devs mirror</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jun 2019 11:17:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://devmirror.com/tags/hr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://devmirror.com/blog/my-first-post/</link>
+      <pubDate>Tue, 18 Jun 2019 11:17:14 +0200</pubDate>
+      
+      <guid>https://devmirror.com/blog/my-first-post/</guid>
+      <description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum.</description>
+    </item>
+    
+  </channel>
+</rss>

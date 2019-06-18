@@ -6,7 +6,7 @@
     <description>Recent content on Devs mirror</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Oct 2018 11:17:14 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 11:17:14 +0200</lastBuildDate>
     
 	<atom:link href="https://devmirror.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>My First Post</title>
       <link>https://devmirror.com/blog/my-first-post/</link>
-      <pubDate>Sun, 07 Oct 2018 11:17:14 +0200</pubDate>
+      <pubDate>Tue, 18 Jun 2019 11:17:14 +0200</pubDate>
       
       <guid>https://devmirror.com/blog/my-first-post/</guid>
       <description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum.</description>
